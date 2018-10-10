@@ -22,9 +22,9 @@ public class Pokemon {
      */
     public enum PokemonType {
         /**
-         * Electric pokemon.
+         * GRASS pokemon.
          */
-        ELECTRIC,
+        GRASS,
         /**
          * Fire pokemon.
          */
